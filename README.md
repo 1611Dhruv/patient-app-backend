@@ -48,7 +48,7 @@ Before running the Docker container, follow these steps to set up Google Cloud P
 3. **Run the Docker Container:**
 
    ```bash
-   docker run -p 3000:3000 --env-file .env my-node-app
+   docker run -p 3000:3000 my-node-app
    ```
 
    Replace `.env` with your environment file containing the necessary variables.
