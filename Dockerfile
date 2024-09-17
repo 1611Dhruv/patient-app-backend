@@ -19,7 +19,7 @@ EXPOSE 3000
 # Define environment variables
 # TODO: replace PROJECT_ID and LOCATION local variables
 ENV PORT=3000
-ENV PROJECT_ID=turnkey-layout-423219-d0
+ENV PROJECT_ID=chrome-sublime-427407-s9
 ENV LOCATION=asia-south1
 ENV GOOGLE_APPLICATION_CREDENTIALS=./key.json
 
